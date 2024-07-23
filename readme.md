@@ -5,3 +5,5 @@ Why Git?
 WHat´s Git and Hot to Use
 
 Treino de git passo a passo
+
+Internacionalizando conhecimento
